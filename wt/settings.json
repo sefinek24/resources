@@ -1,7 +1,7 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": 
+    "actions":
     [
         {
             "command": "find",
@@ -12,7 +12,7 @@
             "keys": "ctrl+v"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "copy",
                 "singleLine": false
@@ -20,7 +20,7 @@
             "keys": "ctrl+c"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "splitPane",
                 "split": "auto",
@@ -32,23 +32,23 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-    "profiles": 
+    "profiles":
     {
-        "defaults": 
+        "defaults":
         {
-            "backgroundImage": "desktopWallpaper",
+            "backgroundImage": "C:\\%HomePath%\\Pictures\\Genshin Impact Mod Pack\\background.jpg",
             "backgroundImageOpacity": 0.45000000000000001,
             "colorScheme": "Color Scheme 11",
             "cursorHeight": 16,
             "cursorShape": "vintage",
             "experimental.retroTerminalEffect": false,
-            "font": 
+            "font":
             {
                 "face": "Cascadia Code",
                 "size": 11
             }
         },
-        "list": 
+        "list":
         [
             {
                 "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
@@ -82,7 +82,7 @@
             }
         ]
     },
-    "schemes": 
+    "schemes":
     [
         {
             "background": "#0C0C0C",
