@@ -36,7 +36,7 @@
     {
         "defaults":
         {
-            "backgroundImage": "C:\\%HomePath%\\Pictures\\Genshin Impact Mod Pack\\background.jpg",
+            "backgroundImage": "C:\\%HomePath%\\Pictures\\Genshin Impact Mod Pack\\Windows Terminal\\background.jpg",
             "backgroundImageOpacity": 0.45000000000000001,
             "colorScheme": "Color Scheme 11",
             "cursorHeight": 16,
