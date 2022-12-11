@@ -1,7 +1,7 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions":
+    "actions": 
     [
         {
             "command": "find",
@@ -12,7 +12,7 @@
             "keys": "ctrl+v"
         },
         {
-            "command":
+            "command": 
             {
                 "action": "copy",
                 "singleLine": false
@@ -20,7 +20,7 @@
             "keys": "ctrl+c"
         },
         {
-            "command":
+            "command": 
             {
                 "action": "splitPane",
                 "split": "auto",
@@ -32,32 +32,31 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-    "profiles":
+    "initialRows": 30,
+    "profiles": 
     {
-        "defaults":
+        "defaults": 
         {
             "backgroundImage": "C:\\%HomePath%\\Pictures\\Genshin Impact Mod Pack\\Windows Terminal\\background.jpg",
-            "backgroundImageOpacity": 0.45000000000000001,
+            "backgroundImageOpacity": 0.62,
             "colorScheme": "Color Scheme 11",
-            "cursorHeight": 16,
-            "cursorShape": "vintage",
+            "cursorHeight": 14,
+            "cursorShape": "bar",
             "experimental.retroTerminalEffect": false,
-            "font":
+            "font": 
             {
                 "face": "Cascadia Code",
                 "size": 11
             }
         },
-        "list":
+        "list": 
         [
             {
-                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
                 "name": "Windows PowerShell"
             },
             {
-                "commandline": "%SystemRoot%\\System32\\cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "Command Prompt"
@@ -67,22 +66,10 @@
                 "hidden": false,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
-            },
-            {
-                "guid": "{2cb4cb51-e9d8-5bed-954b-91641e0a5a41}",
-                "hidden": false,
-                "name": "Developer Command Prompt for VS 2022",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{c0d90910-5983-5c38-a959-1bf27d7cdba1}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 2022",
-                "source": "Windows.Terminal.VisualStudio"
             }
         ]
     },
-    "schemes":
+    "schemes": 
     [
         {
             "background": "#0C0C0C",
@@ -337,5 +324,6 @@
             "white": "#C0C0C0",
             "yellow": "#808000"
         }
-    ]
+    ],
+    "theme": "dark"
 }
