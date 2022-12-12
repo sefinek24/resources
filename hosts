@@ -1,5 +1,5 @@
 ###
-# Host file made by Sefinek.
+# Collection of hosts made by Sefinek.
 # https://sefinek.net
 #
 # Last update: 12.12.2022
@@ -23,7 +23,6 @@
 0.0.0.0 www.fp.msedge.net
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 checkappexec.microsoft.com
-0.0.0.0 c.msn.com
 0.0.0.0 arc.msn.com
 
 # Google
@@ -34,6 +33,30 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 variations.brave.com
 0.0.0.0 o64374.ingest.sentry.io
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 0.0.0.0 100.1qingdao.com
 0.0.0.0 7minuteworkout.com
 0.0.0.0 addshoppers.com
@@ -94,6 +117,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# https://v.firebog.net/hosts/static/w3kbl.txt
 # Personal Blocklist by WaLLy3K (https://firebog.net/about)
 # Content added to this list has been manually verified, and is updated irregularly
 
