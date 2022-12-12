@@ -1,0 +1,73 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# Hoyoverse
+127.0.0.1 log-upload-os.hoyoverse.com
+127.0.0.1 www.log-upload-os.hoyoverse.com
+
+# Google
+127.0.0.1 www.firebaselogging-pa.googleapis.com
+
+# Other
+127.0.0.1 genshin-impact-map-appsample.com
+127.0.0.1 www.genshin-impact-map-appsample.com
+127.0.0.1 genshinporngame.com
+127.0.0.1 www.genshinporngame.com
+
+# Microsoft
+127.0.0.1 fp.msedge.net
+127.0.0.1 www.fp.msedge.net
+127.0.0.1 browser.events.data.msn.com
+127.0.0.1 checkappexec.microsoft.com
+127.0.0.1 browser.events.data.msn.com
+127.0.0.1 srtb.msn.com
+127.0.0.1 c.bing.com
+127.0.0.1 c.msn.com
+127.0.0.1 web.vortex.data.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 smetric.ads.microsoft.com
+127.0.0.1 adnexus.net
+127.0.0.1 az361816.vo.msecnd.net
+127.0.0.1 az512334.vo.msecnd.net
+127.0.0.1 cdn.atdmt.com
+127.0.0.1 cds26.ams9.msecn.netę
+127.0.0.1 feedback.microsoft-hohm.com
+127.0.0.1 h1.msn.com
+127.0.0.1 live.rads.msn.com
+127.0.0.1 preview.msn.com
+127.0.0.1 reports.wes.df.telemetry.microsoft.com
+127.0.0.1 schemas.microsoft.akadns.net
+127.0.0.1 secure.flashtalking.com
+127.0.0.1 statsfe2.ws.microsoft.com
+127.0.0.1 wes.df.telemetry.microsoft.com
+127.0.0.1 target.microsoft.com
+127.0.0.1 browser.pipe.aria.microsoft.com
+127.0.0.1 mobile.pipe.aria.microsoft.com
+127.0.0.1 v10c.events.data.microsoft.com
+127.0.0.1 web.vortex.data.microsoft.com
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 bingads.microsoft.com
+127.0.0.1 advertise.bingads.microsoft.com
