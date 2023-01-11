@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sefinek24/Genshin-Impact-ReShade_Resource.git"
+    "url": "git+https://github.com/sefinek24/Genshin-Impact-ReShade_Resources.git"
   },
   "author": "Sefinek (https://sefinek.net)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sefinek24/Genshin-Impact-ReShade_Resource/issues"
+    "url": "https://github.com/sefinek24/Genshin-Impact-ReShade_Resources/issues"
   },
-  "homepage": "https://github.com/sefinek24/Genshin-Impact-ReShade_Resource#readme"
+  "homepage": "https://github.com/sefinek24/Genshin-Impact-ReShade_Resources#readme"
 }
