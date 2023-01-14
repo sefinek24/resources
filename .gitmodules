@@ -1,0 +1,11 @@
+[submodule "1-little-kitten_tier"]
+	path = 1-little-kitten_tier
+	url = https://github.com/Genshin-Impact-Mod-Pack/1-little-kitten_tier
+
+[submodule "2-kitten_tier"]
+	path = 2-kitten_tier
+	url = https://github.com/Genshin-Impact-Mod-Pack/2-kitten_tier
+
+[submodule "3-legendary-cat_tier"]
+	path = 3-legendary-cat_tier
+	url = https://github.com/Genshin-Impact-Mod-Pack/3-legendary-cat_tier
