@@ -1,1 +1,1 @@
-## 📂 Genshin Impact Stella Mod Resources
+## 📂 Genshin Stella Mod Pack - Resources
